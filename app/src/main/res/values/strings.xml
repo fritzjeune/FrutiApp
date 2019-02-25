@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FrutiApp</string>
+    <string name="et_nombre">what\'s your name?</string>
+    <string name="boton">Play</string>
+    <string name="et_life">Life:</string>
+    <string name="player_name">Player:</string>
+    <string name="total_score">Score:</string>
+    <string name="but_sum">Verify</string>
+    <string name="et_answer">Answer</string>
+</resources>
